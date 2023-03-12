@@ -1,0 +1,2 @@
+# EasyTests
+Simplify code testing
